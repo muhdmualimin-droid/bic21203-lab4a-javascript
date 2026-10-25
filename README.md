@@ -20,10 +20,25 @@ For Question 1, I created a simple webpage with a paragraph and a button. When t
 I used a JavaScript function and addEventListener() to make the button work.
 
 ### How to Run
+### Step 1: Download the Project
+1. Open this GitHub repository.
+2. Click the green "Code" button.
+3. Select "Download ZIP".
+4. Extract the ZIP file to a folder on your computer.
+
+### Step 2: Open the Project
+1. Open the extracted project folder.
+2. You will see three folders: Q1, Q2, and Q3.
+3. Each folder contains two files:
+   - index.html
+   - script.js
+
+### Step 3: Run Question 1
 1. Open the Q1 folder.
-2. Open index.html in Google Chrome.
-3. Click the Change Message button.
-4. The paragraph will change to "Hello there!".
+2. Double-click the index.html file to open it in your default browser.
+3. The webpage will display "Welcome to my website!".
+4. Click the "Change Message" button.
+5. The text will change to "Hello there!".
 
 ### Screenshots
 
@@ -44,10 +59,14 @@ The program compares the number with 10 and displays a message. I used if, else 
 The program also displays an error message if the user enters text or leaves the input empty.
 
 ### How to Run
-1. Open the Q2 folder.
-2. Open index.html in Google Chrome.
-3. Enter a number in the input box.
-4. Click Check to see the result.
+### Step 4: Run Question 2
+1. Go back to the main project folder.
+2. Open the Q2 folder.
+3. Double-click the index.html file to open it in your browser.
+4. Enter a number in the input field.
+5. Click the "Check" button.
+6. The webpage will display a message based on the input.
+7. Try different inputs such as 5, 10, 15, 10.5, abc, and an empty input.
 
 ### Test Results
 
@@ -95,11 +114,13 @@ I used a for loop to repeat the process five times. Each number is displayed as 
 I also cleared the previous list before generating new numbers to prevent duplicate items.
 
 ### How to Run
-1. Open the Q3 folder.
-2. Open index.html in Google Chrome.
-3. Click the Generate button.
-4. The webpage will display numbers from 1 to 5.
-5. Click the button again to check for duplicate items.
+### Step 5: Run Question 3
+1. Go back to the main project folder.
+2. Open the Q3 folder.
+3. Double-click the index.html file to open it in your browser.
+4. Click the "Generate" button.
+5. A numbered list from 1 to 5 will appear.
+6. Click the button again to check that no duplicate numbers appear.
 
 ### Screenshots
 
