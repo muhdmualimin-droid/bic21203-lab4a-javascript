@@ -89,7 +89,7 @@ Input: 10
 
 ![Q2 Equal](4A%20screenshot/Q2_equal.png)
 
-Input: 15
+Input: 12
 
 ![Q2 Higher](4A%20screenshot/Q2_higher.png)
 
